@@ -1,0 +1,36 @@
+{
+  "name": "Seno",
+  "version": "1.1.0",
+  "description": "A discord.js bot made by Uzuruto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Npm"
+  ],
+  "author": "Uzuruto",
+  "license": "by-nc-nd/4.0",
+  "bugs": {},
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "child_process": "^1.0.2",
+    "discord-moderator-bot": "^1.1.0",
+    "discord.js": "^12.5.0",
+    "dot-env": "^0.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.1.0"
+  },
+  "optionalDependencies": {
+    "@discordjs/uws": "^11.149.1"
+  }
+}
